@@ -7,7 +7,8 @@ public class Question3 {
 
             sum += numbers[i];
 
-            System.out.println("배열의 합: "+sum);
+
         }
+        System.out.println("배열의 합: "+sum);
     }
 }
